@@ -1,5 +1,5 @@
 # ZenKeyboard_AHK
-![ZenKeyboard Logo](./zenkeyboard.jpg"A more zen keyboard")
+![ZenKeyboard Logo](./ZenKeyboard.jpg "A more zen keyboard")
 My AHK script to use with any working env (based on italian layout)
 
 ## A bit of history:
