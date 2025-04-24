@@ -1,25 +1,25 @@
->!+à::À
+>!+Ã ::Ã€
     	return
-+ò::Ò  
++Ã²::Ã’  
     	return
->!+ò::ç  
+>!+Ã²::Ã§  
     	return
->!+ù::Ù  
+>!+Ã¹::Ã™  
     	return
->!u::ü
+>!u::Ã¼
     	return
->!+u::Ü   
+>!+u::Ãœ   
 	return 
->!+e::È
+>!+e::Ãˆ
 	return
 >!\::`
 	return
 >!+\::~
 	return    
->!d::ø
+>!d::Ã¸
     	return
 		
->!+d::Ø
+>!+d::Ã˜
     	return		
 <^>!z::Send,<
 	return
@@ -124,7 +124,7 @@ else
    Send {DOWN}
 return
 
-CapsLock & ò:: 
+CapsLock & Ã²:: 
 GetKeyState, state, LAlt
 if state = D 
    Send +{RIGHT}
